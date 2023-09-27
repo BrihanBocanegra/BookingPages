@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "w01pz8k0awix82bFdSBWFt/AFUcel2bxJE3JGyPR4UXgnA5bPZQ7ZQD7F9DbAy+hl6K92BoMtH5E9l1+DGde2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brihan\\source\\repos\\booking-pages\\BookingPages\\BookingPages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brihan\\.nuget\\packages\\mailkit\\3.6.0\\mailkit.3.6.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\mimekit\\3.6.0\\mimekit.3.6.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\Brihan\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

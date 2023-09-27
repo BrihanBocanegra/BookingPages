@@ -1,0 +1,10 @@
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\BookingPages.exe
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\BookingPages.dll
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\BookingPages.deps.json
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\BookingPages.runtimeconfig.json
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\BookingPages.pdb
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\MailKit.dll
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\MimeKit.dll
+C:\Users\Brihan\source\repos\booking-pages\BookingPages\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Crypto.dll
